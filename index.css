@@ -1,0 +1,26 @@
+.darktoggle {
+  text-decoration: hidden;
+}
+
+
+.firstbox {
+  background-color: #870f5f;
+  font-size: 15pt;
+  padding-top: -5px;
+}
+
+
+.firstbox a {
+  text-decoration: none;
+  color: #1ef085;
+}
+
+
+.pagename {
+  padding-top: 0px;
+  font-size: 18.5pt;
+  font-family: 'Lora', serif;
+  background-color: linear-gradient(45deg, #0cad0f, #e22a2a);
+  -webkit-background-clip: text;
+  -webkik-text-fill-color: transparent;
+}
