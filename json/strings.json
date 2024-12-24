@@ -1,0 +1,53 @@
+{
+    "template-lang": {
+        "STR_ID": "STR_CONTENT"
+    },
+
+    "es-mx": {
+        "WEB_MT_TITLE": "Página en mantenimiento.",
+        "WEB_MT_WBBS": "Estaremos disponibles pronto! =)",
+        "WEB_MT_WBBS_A": "La página está recibiendo sus chequeos de aceite usuales.",
+        "WEB_MT_WBBS_B": "Agradezco tu espera. Estaré de vuelta pronto.",
+        "WEB_MT_ASSIST": "Ocupas una mano? No sé si te servirá, pero toma. Contáctame en"
+    },
+
+    "ro-ro": {
+        "WEB_MT_TITLE": "Pagină în întreținere.",
+        "WEB_MT_WBBS": "Ne vom întoarce în curânt! =)",
+        "WEB_MT_WBBS_A": "Pagina s-a verificat de la sine, s0a simțit un pic în fara vremii.",
+        "WEB_MT_WBBS_B": "Apreciez timpul de așteptare și voi reveni curând.",
+        "WEB_MT_ASSIST": "Ai nevoie de ajutor? Nu știu dacă o să-ți fie de folos, dar gata. Contactați-mă la"
+    },
+
+    "en-au": {
+        "WEB_MT_TITLE": "Webpage under maintenance.",
+        "WEB_MT_WBBS": "We'll be back shortly! :D",
+        "WEB_MT_WBBS_A": "The page is undergoing some scheduled maintenance.",
+        "WEB_MT_WBBS_B": "I appreciate your patiente and will be back shortly!",
+        "WEB_MT_ASSIST": "Need assistance? Don't know if you'll find it useful, but there you go. Contact me at"
+    },
+
+    "pt-br": {
+        "WEB_MT_TITLE": "Página em manutenção.",
+        "WEB_MT_WBBS": "Votaremos em breve! :D",
+        "WEB_MT_WBBS_A": "Página foi ao médico, e sentiu-se um pouco mal.",
+        "WEB_MT_WBBS_B": "Agradeço seu tempo de espera, voltarei em breve!",
+        "WEB_MT_ASSIST": "Precisa de ajuda? Nao sei si você achará útil, mas aí está. Entre em contato comigo por"
+    },
+
+    "uml-rs": {
+        "WEB_MT_TITLE": "Pagin mrite ițtite",
+        "WEB_MT_WBBS": "Itta-noi availabil sașcii! :3",
+        "WEB_MT_WBBS_A": "Pagin fai na la medic. Po simt al pich nașar.",
+        "WEB_MT_WBBS_B": "Minnatji kytyși timp. Voltar-ha un darovi.",
+        "WEB_MT_ASSIST": "Anevoi assistanși ku? Nu tanumaci si tabu-ar li util, deru maș almat. Intra-te un contact han-u cereș"
+    },
+
+    "uml-cs": {
+        "WEB_MT_TITLE": "Пагин мрите ицтйте",
+        "WEB_MT_WBBS": "Итта-ной авайлабил сащьий",
+        "WEB_MT_WBBS_A": "Пагин фай на ла медик. По симт ал пич нашар.",
+        "WEB_MT_WBBS_B": "Миннатжй кытыши тимп. Волтар-ха ун даровй.",
+        "WEB_MT_ASSIST": "Аневой ассистанши ку? Ну танумачи си табу-ар лй утйл, деру маш алмат. Йнтра-те ун контакт хан-у череш"
+    }
+}
